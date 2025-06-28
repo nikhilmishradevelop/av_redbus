@@ -1,0 +1,18 @@
+# Core data processing
+polars==1.30.0
+pandas==2.3.0
+numpy==1.26.4
+pyarrow
+
+# Machine learning models
+lightgbm==4.6.0
+catboost==1.2.8
+xgboost==3.0.2
+scikit-learn==1.6.1
+
+# Deep learning for TabDPT
+torch==2.7.1
+
+# Utilities
+holidays==0.74
+scipy==1.15.3
